@@ -4,9 +4,9 @@ import random
 import sys
 
 # --- Configurable Constants ---
-CELL_SIZE = 40  # Size of each grid square in pixels
+CELL_SIZE = 20  # Size of each grid square in pixels
 GRID_WIDTH = 20  # Number of columns
-GRID_HEIGHT = 20  # Number of rows
+GRID_HEIGHT = 10  # Number of rows
 SCREEN_WIDTH = CELL_SIZE * GRID_WIDTH
 SCREEN_HEIGHT = CELL_SIZE * GRID_HEIGHT
 
